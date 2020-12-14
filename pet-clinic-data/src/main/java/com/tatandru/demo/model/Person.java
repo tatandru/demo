@@ -1,6 +1,6 @@
 package com.tatandru.demo.model;
 
-public class Person {
+public class Person extends BaseEntity {
 
     public String firstName;
     public String lastName;
